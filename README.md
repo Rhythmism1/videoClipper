@@ -30,7 +30,7 @@ pip install imageio
 
 It's highly recommended to use a virtual environment to isolate the project dependencies and avoid conflicts with other Python projects on your system. Here's how to create and use a virtual environment:
 
-1.  **Create a virtual environment:** Navigate to the directory where you saved `clip_video.py` in your terminal and run:
+1.  **Create a virtual environment:** Navigate to the directory where you saved `main.py` in your terminal and run:
 
     ```bash
     python -m venv venv
@@ -57,7 +57,7 @@ It's highly recommended to use a virtual environment to isolate the project depe
     ```
     These libraries will now be installed only within your virtual environment.
 
-4.  **Run the script:** You can now run the `clip_video.py` script as described in the "How to Use" section.
+4.  **Run the script:** You can now run the `main.py` script as described in the "How to Use" section.
 
 5.  **Deactivate the virtual environment (when finished):** When you are done working with the script, you can deactivate the virtual environment by running:
 
@@ -68,8 +68,8 @@ It's highly recommended to use a virtual environment to isolate the project depe
 
 ## Installation
 
-1.  **Download the script:** Save the Python code (provided in the `clip_video.py` file) as `clip_video.py` in your desired project directory.
-2.  **Navigate to the script's directory:** Open your terminal or command prompt and change the directory to where you saved `clip_video.py`.
+1.  **Download the script:** Save the Python code (provided in the `main.py` file) as `main.py` in your desired project directory.
+2.  **Navigate to the script's directory:** Open your terminal or command prompt and change the directory to where you saved `main.py`.
 3.  **(Optional but Recommended) Create and activate a virtual environment:** Follow the steps in the "Virtual Environment (Recommended)" section above.
 4.  **Install dependencies:** If you haven't already, and especially if you are using a virtual environment, install the required Python libraries using pip:
 
@@ -83,7 +83,7 @@ It's highly recommended to use a virtual environment to isolate the project depe
 1.  **Run the script:** Execute the script from your terminal using:
 
     ```bash
-    python clip_video.py
+    python main.py
     ```
     **(If using a virtual environment, ensure it is activated before running the script.)**
 
