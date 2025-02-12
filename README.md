@@ -126,12 +126,5 @@ After running the script, a folder named `clipped_videos` will be created (if it
 *   **Video Duration:** If an end timestamp exceeds the video's duration, the clip will be cut at the end of the video, and a warning message will be displayed.
 *   **Error Messages:** The script provides error messages to help you identify and fix any issues with input file paths, timestamp formats, or video processing.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Author
-
-[Your Name/Username] (Optional)
-[Your Email Address] (Optional)
 
